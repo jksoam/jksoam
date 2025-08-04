@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jksoam
-- 👀 I’m interested in kubenates
+- 👀 I’m interested in kubernetes
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me 9711155395
